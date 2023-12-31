@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Unity**
 
 - 📫 How to reach me **radensalmahumaira@graduate.utm.my**
 
-- ⚡ Fun fact **I like water with pH higher than 7.1**
+- ⚡ Fun fact **I like green tea products**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
