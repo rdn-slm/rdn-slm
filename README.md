@@ -7,30 +7,29 @@
 
 ![CLOWN](https://github.com/rdn-slm/rdn-slm/assets/148412534/42744ad8-4832-40ca-a656-71113ec2b47d)
 
-<h2 align = "center" > <i>"Nothing lost, nothing gained, right? Let's go! "</i> </h2>
+<h2 align = "center" > <i>"Nothing lost, nothing gained, right? Let's go!"</i> </h2>
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center"> 1st Year Sem 1 SECVH Student  _(:з)∠)_</h3>
-
-- 🌱 A full-time student, part-time artist and occasionally a nerd
-- 🌠 More passion, more energy towards digital art, animation, coding, stargazing
-- 🌳 Oh,  **I like green tea products**, I wish the leaves would sprout from my head
-- 🪐 Try out Rumi Anthology (any translation will do, perhaps) and Hilal Asyraf's books! 
-
-*   🌍  I'm based in Skudai, Johor
-*   🖥️  See my portfolio at [My Portfolio](http://github.com/rdn-slm/eportfolio/tree/main)
-*   ✉️  You can contact me at [salma.raden@gmail.com](mailto:salma.raden@gmail.com)
-*   🧠  I'm learning Blender and JAVA at the moment <a href="https://www.github.com/rdn-slm" target="_blank" rel="noreferrer">
-
-
-                                                                   
- 
+<p> - 🌍  I'm based in Skudai, Johor </p>
+<p> - 🌱 A full-time student, part-time artist and occasionally a nerd </p>
+<p> - 🌠 More passion, more energy towards digital art, animation, coding, stargazing </p>
+<p> - 🌳 Oh,  **I like green tea products**, I wish the leaves would sprout from my head </p>
+<p> - 🪐 Try out Rumi Anthology (any translation will do, perhaps) and Hilal Asyraf's books! </p>
+<p> - 🧠  I'm learning Blender and JAVA at the moment <a href="https://www.github.com/rdn-slm" target="_blank" rel="noreferrer"> </a> <p>
+<p> - 🖥️  See my portfolio at [My Portfolio](http://github.com/rdn-slm/eportfolio/tree/main) </p>
+<p> - ✉️  You can contact me at  <a href="mailto:salma.radengmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a> </p
+         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
 
-
+<a href="https://www.github.com/rdn-slm" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rdn-slm?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
 
 ![IMG_20231127_104252](https://github.com/rdn-slm/rdn-slm/assets/148412534/3065ccca-fa61-4ae6-b4f4-6441762d9ead)
-<p align = "left" > This is me </p>
+<p align = "center" > This is me </p>
 
 <h3 align = "center">  🫶 Favourite 'quote' أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ٣٨ا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ (53:38)  </h3>
 <h2 align ="center" > ˹They state˺ that no soul burdened with sin will bear the burden of another, </h2>
@@ -94,3 +93,6 @@
 <p> Able to concentrate on existing positive value to contribute more benefits to the team </p>
                   
                   
+<a href="http://www.github.com/rdn-slm"><img src="https://github-readme-stats.vercel.app/api?username=rdn-slm&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="rdn-slm's GitHub stats" /></a>
+
+<a href="https://github.com/rdn-slm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdn-slm&langs_count=10&title_color=14b8a6&text_color=6366f1&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
