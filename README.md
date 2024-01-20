@@ -7,8 +7,15 @@
 
 ![CLOWN](https://github.com/rdn-slm/rdn-slm/assets/148412534/42744ad8-4832-40ca-a656-71113ec2b47d)
 
-
+<h2 align = "center" > <i>"Nothing lost, nothing gained, right? Let's go! "</i> </h2>
 -------------------------------------------------------------------------------------------------------------------------------
+
+<h3 align="center"> 1st Year Sem 1 SECVH Student  _(:з)∠)_</h3>
+
+- 🌱 A full-time student, part-time artist and occasionally a nerd
+- 🌠 More passion, more energy towards digital art, animation, coding, stargazing
+- 🌳 Oh,  **I like green tea products**, I wish the leaves would sprout from my head
+- 🪐 Try out Rumi Anthology (any translation will do, perhaps) and Hilal Asyraf's books! 
 
 *   🌍  I'm based in Skudai, Johor
 *   🖥️  See my portfolio at [My Portfolio](http://github.com/rdn-slm/eportfolio/tree/main)
@@ -16,20 +23,13 @@
 *   🧠  I'm learning Blender and JAVA at the moment <a href="https://www.github.com/rdn-slm" target="_blank" rel="noreferrer">
 
 
-<h3 align="center"> 1st Year Sem 1 SECVH Student  _(:з)∠)_</h3>
-
-- 🌱 A full-time student, part-time artist and occasionally a nerd
-- 🌠 More passion, more energy towards digital art, animation, coding that runs with no logical error, stargazing
-- 🌳 Fun fact **I like green tea products**
-- 🪐 Try out Rumi Anthology (any translation will do, perhaps) and Hilal Asyraf's books! 
-
                                                                    
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
 
 
 
-  ![Gambar Passport](https://github.com/rdn-slm/rdn-slm/assets/148412534/027bd4a9-4d7f-4cfa-83a8-29ce9435295a)
+![IMG_20231127_104252](https://github.com/rdn-slm/rdn-slm/assets/148412534/3065ccca-fa61-4ae6-b4f4-6441762d9ead)
 <p align = "left" > This is me </p>
 
 <h3 align = "center">  🫶 Favourite 'quote' أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ٣٨ا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ (53:38)  </h3>
@@ -67,11 +67,30 @@
 <p>🫧 Prefect (2015)</p>
 
 
+<h1 ><i> Jobs that I did/do 👩‍💻 </i></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
+
+<p> 📎Freelance artist - digital art and traditional painting commission  </p>
+<p> 📎Entrepreneur on Carousell <a href="https://www.carousell.com.my/u/rdn_slm/" target="_blank" rel="noreferrer"></a>
+ </p>
+ <p  ![image](https://github.com/rdn-slm/rdn-slm/assets/148412534/d223b1a0-4429-49ad-a5ae-a9f7474016b5) </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
 <div align="left">
 
+<h3 align="left"> Soft Skills: </h3>
+<p> Time management 📈📈📈📈 </p>
+<p> Proficiently use my time to finish tasks before deadlines and segregate according to Eisenhower Matrix  </p>
+<p> Communication 📈📈📈 </p>
+<p> Nurturing a mutual understanding between colleagues and friends with slow yet steady approach  </p>
+<p> Preservation 📈📈📈📈📈 </p>
+<p> Delegate responsibilities wisely and establish an unshakable mindset  </p>
+<p> Adaptability 📈📈📈📈 </p>
+<p> Always strive to implement new knowledge to real-life applications for survivability   </p>
+<p> Teamwork 📈📈📈📈 </p>
+<p> Able to concentrate on existing positive value to contribute more benefits to the team </p>
                   
                   
