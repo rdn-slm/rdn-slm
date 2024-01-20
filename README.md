@@ -16,8 +16,8 @@
 <p> - 🌠 More passion, more energy towards digital art, animation, coding, stargazing </p>
 <p> - 🌳 Oh,  I like green tea products, I wish the leaves would sprout from my head </p>
 <p> - 🪐 Try out Rumi Anthology (any translation will do, perhaps) and Hilal Asyraf's books! </p>
-<p> - 🧠  I'm learning Blender and JAVA at the moment <a href="https://www.github.com/rdn-slm" target="_blank" rel="noreferrer"> </a> <p>
-<p> - 🖥️  See my portfolio at [My Portfolio](http://github.com/rdn-slm/eportfolio/tree/main) </p>
+<p> - 🧠  I'm learning Blender and JAVA at the moment  <p>
+<p> <a>- 🖥️  See my portfolio at  <a href="http://github.com/rdn-slm/eportfolio" target="_blank" rel="noreferrer"> E-Portfolio </a></p>
 <p> - ✉️  You can contact me at  <a href="mailto:salma.radengmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a> </p
@@ -71,7 +71,8 @@ src="https://img.shields.io/github/followers/rdn-slm?logo=github&style=for-the-b
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
 
 <p> 📎Freelance artist - digital art and traditional painting commission  </p>
-<p> 📎Entrepreneur on Carousell <a href="https://www.carousell.com.my/u/rdn_slm/" target="_blank" rel="noreferrer"></a>
+<p> 📎Entrepreneur on  <a href="https://www.carousell.com.my/rdn-slm">Carousell</a>
+</a>
  </p>
  <p  ![image](https://github.com/rdn-slm/rdn-slm/assets/148412534/d223b1a0-4429-49ad-a5ae-a9f7474016b5) </p>
 
