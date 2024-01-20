@@ -1,6 +1,5 @@
 
 <h1 align="center"><b> Good day, the name is Raden Salma </b></h1>
-<h3 align="center"> <b>Malaysian Truly </b></h3>
 
 <h2 align = "center" ><i> "Why did you choose this course as your first choice?"</i> </h2>
 <h2 align = "center" > <i>"It has 'graphics' in it and that only has convinced me."</i> </h2>
@@ -31,7 +30,7 @@ src="https://img.shields.io/github/followers/rdn-slm?logo=github&style=for-the-b
 ![IMG_20231127_104252](https://github.com/rdn-slm/rdn-slm/assets/148412534/3065ccca-fa61-4ae6-b4f4-6441762d9ead)
 <p align = "center" > This is me </p>
 
-<h3 align = "center">  🫶 Favourite 'quote' أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ٣٨ا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ (53:38)  </h3>
+<h3 align = "center">  🫶 Favourite 'quote' أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ٣٨ا (53:38)  </h3>
 <h2 align ="center" > ˹They state˺ that no soul burdened with sin will bear the burden of another, </h2>
 <h1 > Education Journey </h1>
 
