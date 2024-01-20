@@ -14,7 +14,7 @@
 <p> - 🌍  I'm based in Skudai, Johor </p>
 <p> - 🌱 A full-time student, part-time artist and occasionally a nerd </p>
 <p> - 🌠 More passion, more energy towards digital art, animation, coding, stargazing </p>
-<p> - 🌳 Oh,  **I like green tea products**, I wish the leaves would sprout from my head </p>
+<p> - 🌳 Oh,  I like green tea products, I wish the leaves would sprout from my head </p>
 <p> - 🪐 Try out Rumi Anthology (any translation will do, perhaps) and Hilal Asyraf's books! </p>
 <p> - 🧠  I'm learning Blender and JAVA at the moment <a href="https://www.github.com/rdn-slm" target="_blank" rel="noreferrer"> </a> <p>
 <p> - 🖥️  See my portfolio at [My Portfolio](http://github.com/rdn-slm/eportfolio/tree/main) </p>
@@ -30,9 +30,11 @@ src="https://img.shields.io/github/followers/rdn-slm?logo=github&style=for-the-b
 ![IMG_20231127_104252](https://github.com/rdn-slm/rdn-slm/assets/148412534/3065ccca-fa61-4ae6-b4f4-6441762d9ead)
 <p align = "center" > This is me </p>
 
-<h3 align = "center">  🫶 Favourite 'quote' أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ٣٨ا (53:38)  </h3>
+<h3 align = "center">  Message from God 🫶  </h3>
+<h3 align = "center" > أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ٣٨ا (53:38)  </h3>
+
 <h2 align ="center" > ˹They state˺ that no soul burdened with sin will bear the burden of another, </h2>
-<h1 > Education Journey </h1>
+<h1 > Education Journey (An-Najm: 38) </h1>
 
 - University Technology of Malaysia (2023 - present)
 - Sekolah Menengah Islam Hidayah JB (2017 - 2021)
