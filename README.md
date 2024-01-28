@@ -70,7 +70,7 @@ src="https://img.shields.io/github/followers/rdn-slm?logo=github&style=for-the-b
 <h1 ><i> Jobs that I did/do 👩‍💻 </i></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
 
-<p> 📎Freelance artist - digital art and traditional painting commission  </p>
+<p> 📎Freelance artist - digital art and traditional painting commission  <a href= https://imradensalmahumaira.my.canva.site/artportfolio>Art Portfolio </a> </p>
 <p> 📎Entrepreneur on  <a href="https://www.carousell.com.my/rdn-slm">Carousell</a>
 </a>
  </p>
