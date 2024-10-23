@@ -27,9 +27,6 @@
 <a href="https://www.github.com/rdn-slm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rdn-slm?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
 
-![IMG_20231127_104252](https://github.com/rdn-slm/rdn-slm/assets/148412534/3065ccca-fa61-4ae6-b4f4-6441762d9ead)
-<p align = "center" > This is me </p>
-
 <h3 align = "center">  Message from God 🫶  </h3>
 <h3 align = "center" > أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ٣٨ا (53:38)  </h3>
 
