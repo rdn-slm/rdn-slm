@@ -12,11 +12,11 @@
 
 <h3 align="center"> 1st Year Sem 1 SECVH Student  _(:з)∠)_</h3>
 <p> - 🌍  I'm based in Skudai, Johor </p>
-<p> - 🌱 A full-time student, part-time artist and occasionally a nerd </p>
-<p> - 🌠 More passion, more energy towards digital art, animation, coding, stargazing </p>
+<p> - 🌱 A full-time student </p>
+<p> - 🌠 More passion, more energy towards digital art, animation, coding, praying. </p>
 <p> - 🌳 Oh,  I like green tea products, I wish the leaves would sprout from my head </p>
-<p> - 🪐 Try out Rumi Anthology (any translation will do, perhaps) and Hilal Asyraf's books! </p>
-<p> - 🧠  I'm learning Blender and JAVA at the moment  <p>
+<p> - 🪐  I prefer physical books, but to bring them everywhere is quite a hassle </p>
+<p> - 🧠  I'm learning Blender at the moment  <p>
 <p> <a>- 🖥️  See my portfolio at  <a href="http://github.com/rdn-slm/eportfolio" target="_blank" rel="noreferrer"> E-Portfolio </a></p>
 <p> - ✉️  You can contact me at  <a href="mailto:salma.radengmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
