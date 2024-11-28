@@ -1,5 +1,6 @@
 
-<h1 align="center"><b> Good day, the name is Raden Salma </b></h1>
+<h1 align="center"><b> Good day, the name is Raden Salma Humaira </b></h1>
+<h1 align="center"><b> You can call me Raden or Salma but never Humaira </b></h1>
 
 <h2 align = "center" ><i> "Why did you choose this course as your first choice?"</i> </h2>
 <h2 align = "center" > <i>"It has 'graphics' in it and that only has convinced me."</i> </h2>
@@ -10,7 +11,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> 1st Year Sem 1 SECVH Student  _(:з)∠)_</h3>
+<h3 align="center"> Currently 2nd year Graphics and Multimedia Software Student in UTM  _(:з)∠)_</h3>
 <p> - 🌍  I'm based in Skudai, Johor </p>
 <p> - 🌱 A full-time student </p>
 <p> - 🌠 More passion, more energy towards digital art, animation, coding, praying. </p>
