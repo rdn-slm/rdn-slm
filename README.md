@@ -11,13 +11,12 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center"> Currently 2nd year Graphics and Multimedia Software Student in UTM  _(:з)∠)_</h3>
+<h3 align="center"> Some tidbits about me _(:з)∠)_</h3>
 <p> - 🌍  I'm based in Skudai, Johor </p>
 <p> - 🌱 A full-time student </p>
-<p> - 🌠 More passion, more energy towards digital art, animation, coding, praying. </p>
-<p> - 🌳 Oh,  I like green tea products, I wish the leaves would sprout from my head </p>
-<p> - 🪐  I prefer physical books, but to bring them everywhere is quite a hassle </p>
-<p> - 🧠  I'm learning Blender at the moment  <p>
+<p> - 🌠 More passion, more energy towards digital art, animation and perhaps the niche of this platform itself, coding. </p>
+<p> - 🌳 Oh, I like walking while listening to podcasts </p>
+
 <p> <a>- 🖥️  See my portfolio at  <a href="http://github.com/rdn-slm/eportfolio" target="_blank" rel="noreferrer"> E-Portfolio </a></p>
 <p> - ✉️  You can contact me at  <a href="mailto:salma.radengmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
