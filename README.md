@@ -44,16 +44,9 @@ src="https://img.shields.io/github/followers/rdn-slm?logo=github&style=for-the-b
 <h1 > Awards and Achievement </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
 
-<p>🏆 Participant for Palestine Winter Art Contest Participation </p>
 <p>🏆 MaSoc Drama 2023 (3rd Place), 1st Place Best Script - scriptwriter</p>
 <p>🏆 Second Place in Pertandingan Poster Kreatif Sempena Ramadan 1441H Ikram Iskandar Puteri </p>
 <p>🏆 Gold Award Innofest 2023 KMKN</p>
-<p>🏆 Certificate in Kuiz Kimia Kebangsaan </p>
-<p>🏆 Certificate in Komik Adiwira DBP</p>
-<p>🏆 Certificate in Gifted Comic Competition 2020 </p>
-<p>🏆 Certificate in Banteras Rasuah Comic Competition 2021</p>
-<p>🏆 Certificate in Voice Over, Louder! Competition </p>
-
 
 <h1 ><i> Roles and Position </i></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdn-slm&label=Profile%20views&color=0e75b6&style=flat" alt="rdn-slm" /> </p>
